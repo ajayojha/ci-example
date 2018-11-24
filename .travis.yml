@@ -24,6 +24,6 @@ cache:
     - node_modules
 
 script:
-  - ng test
+  - ng test --watch=false
 
 
